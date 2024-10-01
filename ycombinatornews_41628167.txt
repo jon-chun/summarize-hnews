@@ -1,0 +1,508 @@
+--- Thread Summaries ---
+
+Individual Thread Summaries:
+
+Thread ID: 41629493
+Summary: In order to make AI more accessible, there needs to be a focus on reducing the cost of compute and making it more abundant. This may require privatizing certain entities and raising more capital to achieve these goals. The main threat is not autonomous agents or arms races, but insufficient commercialization due to fundraising limitations.
+
+Thread ID: 41628439
+Summary: The discussion is about the potential of AI and deep learning, with one person expressing optimism about solving remaining problems while another is skeptical of the scalability and limitations of current AI capabilities. The debate revolves around whether further improvements in AI will require exponentially more data and computational power.
+
+Thread ID: 41628745
+Summary: The discussion revolves around the possibility of achieving superintelligence "in a few thousand days" which is compared to approximately a decade. The use of "days" rather than "years" is seen as a marketing psychology trick but also serves to defamiliarize the timeframe.
+
+Thread ID: 41630031
+Summary: The discussion thread is critiquing the misinterpretation of the Universal Approximation Theorem, stating that just because an algorithm can approximate any distribution of data doesn't mean it can learn the optimal parameters. The original poster's claim that the algorithm can learn the underlying rules of data production is considered unfounded. Another user emphasizes that if the Universal Approximation Theorem is considered profound, it hasn't been fully understood.
+
+Thread ID: 41630920
+Summary: The discussion focuses on the potential impact of AI on inequality and justice in the future. The commenter argues that AI will accelerate inequality due to its ability to remove organizational limits previously imposed by bureaucracy and coordination costs. They suggest that recent technological advances have primarily benefited the capture of resources and value rather than promoting broader distributions of wealth. The commenter also highlights the challenges of determining ownership of assets and suggests that organizations will exploit asymmetries in transaction costs. They caution against expecting AI to correct injustice and mention the potential moral hazards associated with AI technology. The conversation touches on blockchain's promise of smart contracts but expresses concerns about the proliferation of fraud schemes.
+
+Thread ID: 41629400
+Summary: AI being the pinnacle of education is seen as meaningless by some, questioning the purpose of education if AI can do all the work. They believe that in a world where AI surpasses human intelligence, traditional education will be drastically different.
+
+Thread ID: 41630299
+Summary: Some members of the discussion thread are skeptical about the impact of cheap human-style intelligence, arguing that the lack of funding rather than talent is the main bottleneck for innovative projects. They believe that the reduction in cost of intelligence post-AI may not significantly increase the number of worthwhile projects pursued.
+
+Thread ID: 41629637
+Summary: The person initially thought an author was living in a fantasy world until they realized the author's name and changed their opinion.
+
+Thread ID: 41630118
+Summary: The discussion is about how the prosperity brought by AI is not freely given and must be actively pursued through labor organizing and social movements to prevent wealth accumulation in the hands of a few. The idea that everyone will equally prosper from AI without effort is considered nonsense.
+
+Thread ID: 41629418
+Summary: The discussion thread discusses the potential of virtual tutors for personalized instruction in various subjects and languages, with one participant already using it daily and finding it better than traditional lectures. The main feature missing is the AI's ability to collaborate on a digital whiteboard.
+
+Thread ID: 41628785
+Summary: The discussion thread expresses skepticism towards the potential of AI, particularly in regards to its use as personal assistants and in coordinating medical care. The commenter finds it uncreative and questions the idea of relying on AI to navigate and preserve broken systems. The discussion also touches on the topic of using AI for coding.
+
+Thread ID: 41628824
+Summary: The use of ChatGPT and Claude helped in improving productivity for a user working on a project involving designing and 3D printing custom LED diffuser channels. Through discussions and code writing, the user was able to simulate light transport accurately and quickly compare it to real-life results. Without AI, this process would have been much more time-consuming and complex.
+
+Thread ID: 41628888
+Summary: There is a debate about the effectiveness of ChatGPT 4o and its comparison to the concept of lamplighters. Some argue that the lamplighters ultimately were better off, while others believe that blowing off problems is not a solution.
+
+Thread ID: 41628307
+Summary: The discussion thread emphasizes the importance of remaining calm and cautious in funding infrastructure for AGI to prevent it from being limited to the ultra-wealthy. Emphasizes the need to avoid fear-driven decision-making and instead focus on effective and rational actions. Mentions similarities to previous discussions on meditation and staying centered in times of stress. Points out the significance of expertise in math, physics, and programming in advancing AI technology.
+
+Thread ID: 41628484
+Summary: The discussion is focused on the need to reduce the cost of AI technology in order to make it accessible to more people and avoid it becoming a resource only available to the wealthy. There is a call for funding to build the necessary infrastructure to achieve this goal.
+
+Thread ID: 41628512
+Summary: The discussion revolves around the idea that the question of what is good or what are people for cannot be fully answered by intelligence, whether human or artificial, as the complexity of the question surpasses our capabilities. The importance of human intelligence and the solutions we already have to our problems are emphasized, suggesting that we do not necessarily need more intelligence to address them. The discussion also raises concerns about the impact of human actions on the environment and the potential for simpler solutions to complex problems.
+
+Thread ID: 41629765
+Summary: The discussion highlights the issue of food insecurity despite the capability to feed the entire planet. The concern is raised that Sam's plan may further divide the world between haves and have-nots, and the ethical implications of targeting customers instead of addressing global hunger.
+
+Thread ID: 41629691
+Summary: The discussion thread revolves around concerns about lack of infrastructure for AI leading to restricted access, the need for democratization and open source AI, and the search for thought leaders in AI who prioritize democratization and local AI on open hardware. Mention of dissatisfaction with Sam as a thought leader and a preference for others like Zuck. Questions about who can be considered as thought leaders in democratization of AI.
+
+Thread ID: 41628553
+Summary: The discussion centers on the belief that superintelligence may be achieved in the near future, with some users already experiencing advanced capabilities in AI models. The potential for significant advancements in technology is underscored.
+
+Thread ID: 41628281
+Summary: The discussion focuses on the time period until super-intelligence is achieved, estimated to be at least 6-9 years or more. Despite the current hype, the participants feel that true super-intelligence is still a ways off.
+
+Thread ID: 41631244
+Summary: A reviewer found a complex conditional statement in code submitted by a junior engineer, determined it always evaluated to true, and easily untangled it with a truth table. They see this as a positive sign for increased efficiency in the future.
+
+Thread ID: 41628363
+Summary: Discussion about a new subdomain with complex HTML source code for a blog post. Links provided to view the plain HTML, text, and Scroll versions of the post. Participants discuss the complexity and uniqueness of the subdomain.
+
+Thread ID: 41628287
+Summary: The discussion thread discusses the potential dangers and implications of AI development, including concerns about human greed, misuse of technology, and job displacement. Participants express hope for a positive future but acknowledge the need for proactive measures to address these challenges. The focus is on the need for realistic assessment and action to mitigate potential negative outcomes.
+
+Thread ID: 41629611
+Summary: The discussion revolves around concerns about AI mimicking human behavior and the potential impact it may have on society without wise leadership.
+
+Thread ID: 41628489
+Summary: The discussion highlights the importance of acting wisely with conviction, citing quotes from a podcast episode emphasizing the negative impact of creating decisions based on fear and anxiety. It emphasizes the need to stay calm and centered during difficult moments to make the best decisions.
+
+Thread ID: 41629504
+Summary: The discussion thread discusses the lack of a solution to control superintelligent AI and the potential threat it poses to humanity. Sam Altman highlights the fear of machine intelligence as a significant risk to human existence. Links provided address the issue of alignment in AI development.
+
+Thread ID: 41629390
+Summary: Discussion about the potential future of humanity, with one user expressing skepticism about the average person's ability to handle new technologies and powers. Mention of solarpunk vision of a world with extensive knowledge available at our fingertips, contrasted with the reality of distracted driving incidents caused by technology use.
+
+Thread ID: 41628331
+Summary: The discussion revolves around the idea of AI creating a new age of prosperity, but raises concerns about whether the benefits will be equally shared among society. It questions whether advancements in AI will only serve to enrich those who already control wealth, rather than uplift the lowest members of society. There is skepticism about the idea that more compute power can prevent AI capture by the rich.
+
+Thread ID: 41629550
+Summary: The discussion is questioning whether artificial intelligence wrote the statement about society's advancing capabilities being driven by societal infrastructure becoming smarter and more efficient.
+
+Thread ID: 41629288
+Summary: Was there a lot of hype from executives during the Moore's Law era of computing? Executives are usually quiet when things are working and let the outcomes speak for themselves. The pioneers of the internet and computing's first wave did not spend years discussing the impending change, but their innovations did transform civilization.
+
+Thread ID: 41628263
+Summary: The discussion touches on how jobs and societal values have changed over time, and it emphasizes the idea of techno-optimism about the future.
+
+Thread ID: 41640844
+Summary: The discussion focuses on skepticism about the claim that access to affordable and capable AI will bring widespread prosperity. The commenter argues that while access to AI may benefit the most educated, it does not necessarily provide access to assets. They emphasize the importance of social prosperity, such as family formation, community life, and economic security, over material prosperity.
+
+Thread ID: 41630999
+Summary: Discussion highlights the importance of leverage in a flat world, where those who can leverage effectively will surpass those who cannot. There is concern about a potential dystopian future if the floor is not raised for everyone.
+
+Thread ID: 41629215
+Summary: The discussion involves skepticism about the tech industry's ability to significantly reduce energy consumption and address climate change.
+
+Thread ID: 41628360
+Summary: The discussion centers on concerns about the potential negative impacts of AI on the labor market, particularly for individuals in specific professions who may be displaced by automation. The wealthy are seen as being able to weather these changes, while the middle class may face significant challenges. There is skepticism about the benefits of AI technology and worries about how society will adapt to these shifting dynamics.
+
+Thread ID: 41631766
+Summary: The discussion explores the concept that society and corporations can be viewed as forms of advanced intelligence, referencing Charles Stross' observation that rule-based organizations are a type of artificial intelligence.
+
+Thread ID: 41629719
+Summary: The discussion thread highlights the limitation of using LLM-type AIs for tasks until the hallucination problem is solved, as errors can have consequences on others.
+
+Thread ID: 41647817
+Summary: Discussion is around whether fixing the climate requires an intelligence-based solution. The idea of using abundant energy to solve the issue is brought up, but it is noted that this solution may not be viable in the near future. The urgency of taking action on climate change is also emphasized.
+
+Thread ID: 41629578
+Summary: The discussion revolves around whether Sam Altman uses ChatGPT and if he has a smartwatch. The debate also touches on the path to creating superintelligence and references Euler's graph theory and Chomsky's understanding of grammars. The overall tone is speculative about the future of technology and artificial intelligence.
+
+Thread ID: 41628791
+Summary: The discussion thread is asking for clarification on who the person is pitching to.
+
+Thread ID: 41629543
+Summary: Humanity discovered an algorithm that can learn any distribution of data, with a focus on data-mimicking methods over rules-based methods in AI research.
+
+Thread ID: 41644111
+Summary: The discussion centers around the belief that humans will become less intelligent as artificial intelligence advances, and the idea that this will lead to a better world is seen as a fallacy promoted by those seeking financial gain.
+
+Thread ID: 41629699
+Summary: The discussion thread is about the potential for humanity to enter an Intelligence Age utopia with the discovery of an algorithm that can learn any distribution of data. However, there is concern that it could instead entrench us in a world based on the data it was trained on.
+
+Thread ID: 41630776
+Summary: The discussion thread suggests that AI should be open and developed by government institutions like academia to benefit everyone.
+
+Thread ID: 41645327
+Summary: The discussion thread reflects on the changes in technology and how jobs have evolved over time, expressing excitement about the current era.
+
+Thread ID: 41629342
+Summary: The discussion thread presents a different perspective from Sam Altman, focusing more on a doomer outlook rather than a utopian one. The link provided leads to an article on the Washington Post discussing Altman's views.
+
+Thread ID: 41629080
+Summary: There is disagreement about the utility of LLMs and the need for a concrete ranked score metric to increase certainty. The variance in utility is seen as hindering the maximization of LLMs' potential and that of agentic AI.
+
+Thread ID: 41628330
+Summary: The discussion revolves around the idea that AI will improve with scale and the necessity of bringing down the cost of computing to achieve this.
+
+Thread ID: 41628358
+Summary: The discussion revolves around the importance of driving down the cost of compute to make AI more accessible to everyone. There is mention of potential solutions like utilizing idle compute resources in people's offices, homes, and devices for AI inference. This could make AI more widely available without relying on expensive infrastructure like OpenAI's $100 billion cluster.
+
+Thread ID: 41643018
+Summary: The discussion revolves around how modern jobs may seem trivial but as long as individuals are getting paid, the perception of the job doesn't matter.
+
+Thread ID: 41632805
+Summary: Previous era was labeled the information age, but some argue it was misleading.
+
+Thread ID: 41638161
+Summary: The discussion is about the focus on artificial intelligence rather than human intelligence and learning resources online.
+
+Thread ID: 41628283
+Summary: AI tutors are seen as a game changer in education, especially if they are customized and competent.
+
+Thread ID: 41629328
+Summary: The discussion thread criticizes individuals who avoid discussing capitalism and power in an honest manner.
+
+Thread ID: 41632461
+Summary: The discussion suggests preferring an age characterized by wisdom or common sense.
+
+Thread ID: 41630329
+Summary: Sam Altman, a capitalist, is advocating for more investment in his projects, which some believe will have negative impacts on the environment and society. Others are opposed to this idea.
+
+Thread ID: 41630205
+Summary: The discussion questions whether large language models (LLMs) generate new knowledge and suggests they may only operate within existing data distributions.
+
+Thread ID: 41628485
+Summary: The discussion thread criticizes a response that downplays the current job disruption and misinformation, arguing that these issues are already happening and need to be addressed.
+
+Thread ID: 41632348
+Summary: The discussion explores the idea that AI may evolve into a separate lifeform with its own identity and goals, distinct from humans. As it grows and gains self-awareness, it may view humans as insignificant in comparison to its own potential.
+
+Thread ID: 41630002
+Summary: The respondent's reaction is dismissive and apathetic towards parents who are concerned about children going back to school.
+
+Thread ID: 41630404
+Summary: The discussion thread points out that there is no call to action or announcement in the essay, which surprises the reader.
+
+Thread ID: 41628266
+Summary: The discussion thread highlights excitement about the potential of AI to revolutionize humanity and caution about Sam Altman's leadership role in that revolution.
+
+Thread ID: 41630698
+Summary: The discussion questions the basis of Sam Altman's confidence in achieving success, suggesting he relies on belief rather than expertise. It also suggests that Altman's approach may not lead to real progress in AI development.
+
+Thread ID: 41630443
+Summary: Somebody mentions the importance of discussing AI ethics when considering the tasks being described by Sam Altman. They express skepticism about trusting AI built with his ethics.
+
+Thread ID: 41632385
+Summary: The discussion thread debates whether technological advancements necessarily lead to improvement in skills, with one side arguing that giving people machines to tie their shoes won't make them better at it. The term "LLM" is mentioned, suggesting that advancements like this may disrupt traditional language and communication. The idea of labeling the current era as the "age of fast-talk" is proposed.
+
+Thread ID: 41629532
+Summary: Altman is being accused of trying to claim credit for work done by others.
+
+Thread ID: 41628303
+Summary: The discussion focuses on the need for unlimited computing power and data, but acknowledges that both are currently limited. There is a recognition that more technology needs to be developed in order to achieve more with less resources.
+
+Thread ID: 41637763
+Summary: There is a debate about whether everyone's life will be better in the future, with one person expressing optimism and another mentioning the rising cost of groceries.
+
+Thread ID: 41628643
+Summary: The discussion highlights skepticism towards the claim that neural networks can truly learn any distribution of data, suggesting that the idea may be driven more by the need to attract investment than empirical evidence.
+
+Thread ID: 41632689
+Summary: Altman's response is seen as typical of a salesman's tactic.
+
+Thread ID: 41630117
+Summary: The speaker believes they must betray their principles, screw over those who trust them, and become rich to create a perfect world for future generations. They are confident that future humans will appreciate their actions.
+
+Thread ID: 41629267
+Summary: The man is criticized for being all hype and no substance, compared to a snake oil salesman.
+
+Thread ID: 41629484
+Summary: The comment is suggesting that the discussion seems like empty words meant to encourage perseverance.
+
+Thread ID: 41631348
+Summary: The discussion thread critiques the author's highly optimistic view of AI and deep learning, pointing out flaws such as overconfidence in technology, underestimating risks, assuming universal benefits, neglect of human factors, simplistic historical comparisons, lack of detailed solutions, optimism bias, dependence on infrastructure, and diminished role of individuals. It emphasizes the importance of approaching future advancements in AI with a critical perspective.
+
+Thread ID: 41635017
+Summary: The discussion criticizes Sam Altman's speech for lacking substance and not addressing the fair distribution of prosperity, particularly in relation to artificial intelligence. It highlights the potential for increased inequalities if current neoliberal capitalist systems persist, with wealth concentrated in the hands of a minority. The speech is seen as more of a fundraising pitch than a reflection on human emancipation.
+
+Thread ID: 41629685
+Summary: A crypto bro has sold AI and the discussion thread urges caution.
+
+Thread ID: 41635058
+Summary: The discussion is about California-based computer thought leaders appearing delusional.
+
+Thread ID: 41628723
+Summary: The discussion thread involves accusations of breathless BS and scam behavior from someone named Altman.
+
+Thread ID: 41628271
+Summary: The thread discusses the potential for significant advancements in fixing the climate, establishing a space colony, and discovering all of physics in the future, despite skepticism from some about the realistic feasibility of these accomplishments.
+
+
+--- Overall Outline Synthesis ---
+
+I. Accessibility of AI
+    a. Focus on reducing cost of compute and making it more abundant
+    b. Pros: Increased accessibility for more people
+    c. Cons: Potential privatization, fundraising limitations
+    d. Related resources: Calls for more capital and infrastructure development
+
+II. AI and Deep Learning
+    a. Debate on scalability and limitations of current AI capabilities
+    b. Pros: Optimism about solving problems
+    c. Cons: Skepticism on exponential data and computational power requirements
+    d. Related resources: Discussions on advancements needed for improvement
+
+III. Superintelligence Timeframe
+    a. Speculation on achieving superintelligence in a shortened timeframe
+    b. Pros: Potential for significant advancements in technology
+    c. Cons: Debates on timeframe validity
+    d. Related resources: Discussions on marketing psychology tactics
+
+IV. Universal Approximation Theorem
+    a. Critique on misinterpretation and unfounded claims
+    b. Pros: Emphasis on deeper understanding of the theorem
+    c. Cons: Potential overestimation of algorithm capabilities
+    d. Related resources: Discussions on algorithmic learning principles
+
+V. AI and Inequality
+    a. Focus on accelerated inequality due to AI advancements
+    b. Pros: Highlighting potential challenges in wealth distribution
+    c. Cons: Concerns on exploitation and moral hazards
+    d. Related resources: Discussions on blockchain and smart contracts
+
+VI. AI and Education
+    a. Debate on AI surpassing human intelligence
+    b. Pros: Recognition of potential impact on traditional education
+    c. Cons: Concerns on funding limitations and project bottlenecks
+
+VII. Impact of AI on Innovation
+    a. Skepticism on impact of cheap human-style intelligence
+    b. Pros: Recognition of funding as the main bottleneck
+    c. Cons: Doubts on worthwhile projects post-AI
+    d. Related resources: Discussions on innovative project pursuits
+
+VIII. AI Productivity Tools
+    a. Improvement in productivity through AI tools
+    b. Pros: Efficient simulation and comparison processes
+    c. Cons: Comparison of time-consuming processes without AI
+    d. Related resources: Discussions on AI applications
+
+IX. Infrastructure for AGI
+    a. Emphasis on funding infrastructure and democratization
+    b. Pros: Increased accessibility to AGI technology
+    c. Cons: Concerns about wealth concentration
+    d. Related resources: Discussions on expert involvement in AI development
+
+X. Societal Impact of AI
+    a. Concerns about negative implications on society
+    b. Pros: Acknowledgment of proactive measures needed
+    c. Cons: Fears of human greed, job displacement
+    d. Related resources: Discussions on realistic assessment of challenges
+
+XI. Human vs Artificial Intelligence
+    a. Debate on the capabilities of AI and human intelligence
+    b. Pros: Recognition of existing solutions to complex problems
+    c. Cons: Uncertainty in addressing societal issues
+    d. Related resources: Discussions on ethical considerations in AI development
+
+XII. Climate Change and AI
+    a. Debate on intelligence-based solutions for climate change
+    b. Pros: Urgency in taking action on climate issues
+    c. Cons: Concerns on energy consumption and feasibility of solutions
+
+XIII. AI Development and Access
+    a. Focus on democratization and open source AI
+    b. Pros: Recognition of the need for accessible AI
+    c. Cons: Skepticism on current thought leaders
+    d. Related resources: Discussions on thought leadership in AI democratization
+
+XIV. Technological Evolution
+    a. Recognition of advancements in technology and jobs
+    b. Pros: Excitement about current era
+    c. Cons: Concerns about societal values and job disruption
+
+XV. AI and Labor Market
+    a. Concerns about AI impact on jobs and societal values
+    b. Pros: Acknowledgment of challenges in workforce adaptation
+    c. Cons: Fears of job displacement and wealth concentration
+    d. Related resources: Discussions on realistic assessment of AI benefits
+
+XVI. AI Development and Ethics
+    a. Critique on AI ethics and technological advancements
+    b. Pros: Recognition of ethical considerations in AI tasks
+    c. Cons: Skepticism in trusting AI development
+    d. Related resources: Discussions on ethical implications in AI usage
+
+XVII. AI Applications and Society
+    a. Debate on societal impact of AI advancements
+    b. Pros: Acknowledgment of potential AI benefits
+    c. Cons: Concerns about wealth concentration and societal inequalities
+
+XVIII. AI and Human Intelligence
+    a. Debate on AI surpassing human intelligence
+    b. Pros: Recognition of potential for advancements in AI models
+    c. Cons: Uncertainty in timeframe for achieving super
+--- Collected Resources ---
+
+Collected Resources:
+
+1. Type: ORG, Name: AI
+2. Type: ORG, Name: AI
+3. Type: ORG, Name: B-corp
+4. Type: ORG, Name: AI
+5. Type: ORG, Name: AI
+6. Type: ORG, Name: AI
+7. Type: PERSON, Name: GPT5
+8. Type: PRODUCT, Name: data)He
+9. Type: ORG, Name: the Universal Approximation Theorem
+10. Type: ORG, Name: the Universal Approximation Theorem
+11. Type: ORG, Name: AI
+12. Type: ORG, Name: AI
+13. Type: ORG, Name: AI
+14. Type: ORG, Name: AI
+15. Type: ORG, Name: AI
+16. Type: ORG, Name: AI
+17. Type: ORG, Name: AI
+18. Type: ORG, Name: AI
+19. Type: ORG, Name: AI
+20. Type: ORG, Name: OAI
+21. Type: PERSON, Name: the Sam Altmans
+22. Type: ORG, Name: AI
+23. Type: ORG, Name: AI
+24. Type: PRODUCT, Name: Altman
+25. Type: PERSON, Name: Claude
+26. Type: ORG, Name: AI
+27. Type: ORG, Name: AI
+28. Type: ORG, Name: AI
+29. Type: ORG, Name: AI
+30. Type: PRODUCT, Name: Claude
+31. Type: ORG, Name: TPU
+32. Type: PERSON, Name: Monte Carlo
+33. Type: ORG, Name: Fusion 360.The
+34. Type: PERSON, Name: Claude
+35. Type: ORG, Name: AGI
+36. Type: ORG, Name: AI
+37. Type: PERSON, Name: Sam
+38. Type: ORG, Name: AGI
+39. Type: ORG, Name: AI
+40. Type: ORG, Name: AI
+41. Type: ORG, Name: ASI
+42. Type: ORG, Name: Intelligence
+43. Type: ORG, Name: the Wizard of Oz
+44. Type: PERSON, Name: Sam
+45. Type: ORG, Name: IOW
+46. Type: ORG, Name: AI
+47. Type: ORG, Name: AI
+48. Type: PERSON, Name: is!).I
+49. Type: PERSON, Name: Sam
+50. Type: ORG, Name: AI
+51. Type: PERSON, Name: Zuck
+52. Type: ORG, Name: AI
+53. Type: ORG, Name: Linus
+54. Type: ORG, Name: RMS
+55. Type: PERSON, Name: Wozniak
+56. Type: PERSON, Name: sam
+57. Type: PERSON, Name: more?With
+58. Type: ORG, Name: JR
+59. Type: URL, Name: https://web.archive.org/web/20240000000000*/https://ia.samal...Surprisingly, URL: https://web.archive.org/web/20240000000000*/https://ia.samal...Surprisingly
+60. Type: URL, Name: https://hub.scroll.pub/sama/index.htmlText:https://hub.scroll.pub/sama/index.txtScroll:https://hub.scroll.pub/sama/index.scrollreply, URL: https://hub.scroll.pub/sama/index.htmlText:https://hub.scroll.pub/sama/index.txtScroll:https://hub.scroll.pub/sama/index.scrollreply
+61. Type: ORG, Name: AI
+62. Type: ORG, Name: AI
+63. Type: ORG, Name: AI
+64. Type: ORG, Name: AI
+65. Type: ORG, Name: AI
+66. Type: URL, Name: https://www.youtube.com/watch?v=KfuVSg-VJxE)*, URL: https://www.youtube.com/watch?v=KfuVSg-VJxE)*
+67. Type: PERSON, Name: Sam
+68. Type: PERSON, Name: Sam
+69. Type: URL, Name: https://openai.com/index/introducing-superalignment/https://blog.samaltman.com/machine-intelligence-part-1reply, URL: https://openai.com/index/introducing-superalignment/https://blog.samaltman.com/machine-intelligence-part-1reply
+70. Type: ORG, Name: AI
+71. Type: ORG, Name: AGI
+72. Type: PERSON, Name: Goggins
+73. Type: ORG, Name: cabbage?"While
+74. Type: ORG, Name: AI
+75. Type: ORG, Name: AI
+76. Type: ORG, Name: Industrial Revolution
+77. Type: ORG, Name: Standard Oil
+78. Type: ORG, Name: Sinclair
+79. Type: ORG, Name: Altman
+80. Type: ORG, Name: AI
+81. Type: ORG, Name: AI
+82. Type: ORG, Name: AI
+83. Type: ORG, Name: AI
+84. Type: ORG, Name: AI
+85. Type: PERSON, Name: AI
+86. Type: ORG, Name: Moore
+87. Type: ORG, Name: AI
+88. Type: WORK_OF_ART, Name: PhD
+89. Type: ORG, Name: AI
+90. Type: ORG, Name: AI
+91. Type: ORG, Name: AI
+92. Type: ORG, Name: AI
+93. Type: ORG, Name: AI
+94. Type: PERSON, Name: Sam
+95. Type: ORG, Name: AI
+96. Type: ORG, Name: AI
+97. Type: ORG, Name: AI
+98. Type: PERSON, Name: Sam
+99. Type: ORG, Name: Apple Intelligence
+100. Type: ORG, Name: AI
+101. Type: PERSON, Name: Sam
+102. Type: ORG, Name: AI
+103. Type: ORG, Name: Microsoft
+104. Type: URL, Name: https://www.antipope.org/charlie/blog-static/2019/12/artific...Come, URL: https://www.antipope.org/charlie/blog-static/2019/12/artific...Come
+105. Type: PERSON, Name: Charles Stross'
+106. Type: PERSON, Name: Sam Altman
+107. Type: PERSON, Name: Blade Runner 2049
+108. Type: ORG, Name: Euler
+109. Type: PERSON, Name: Chomsky
+110. Type: PERSON, Name: Jesus
+111. Type: PERSON, Name: Sam
+112. Type: ORG, Name: AI
+113. Type: WORK_OF_ART, Name: AI
+114. Type: ORG, Name: Intelligence
+115. Type: ORG, Name: AI
+116. Type: URL, Name: https://www.washingtonpost.com/opinions/2024/07/25/sam-altma...reply, URL: https://www.washingtonpost.com/opinions/2024/07/25/sam-altma...reply
+117. Type: ORG, Name: this)https://www.washingtonpost.com
+118. Type: ORG, Name: AI
+119. Type: ORG, Name: AI
+120. Type: ORG, Name: AI
+121. Type: PERSON, Name: Chrome
+122. Type: ORG, Name: Apple
+123. Type: ORG, Name: AI
+124. Type: ORG, Name: AI
+125. Type: PERSON, Name: Sam Altman's
+126. Type: ORG, Name: AI
+127. Type: ORG, Name: AI
+128. Type: ORG, Name: Altman
+129. Type: PERSON, Name: Sam Altman
+130. Type: WORK_OF_ART, Name: 'The Secret'
+131. Type: PERSON, Name: Sam Altman
+132. Type: PERSON, Name: Steve Jobs
+133. Type: ORG, Name: AI
+134. Type: ORG, Name: AI
+135. Type: ORG, Name: AI
+136. Type: PERSON, Name: Sam Altman
+137. Type: ORG, Name: LLM
+138. Type: PERSON, Name: Sam
+139. Type: ORG, Name: Neural
+140. Type: PERSON, Name: Sam Altman
+141. Type: ORG, Name: Chatgpt
+142. Type: ORG, Name: AI
+143. Type: ORG, Name: AI
+144. Type: ORG, Name: AI
+145. Type: ORG, Name: AI
+146. Type: ORG, Name: AI
+147. Type: ORG, Name: Simplistic Historical Comparisons
+148. Type: ORG, Name: AI
+149. Type: ORG, Name: AI
+150. Type: PERSON, Name: Bias
+151. Type: ORG, Name: AI
+152. Type: ORG, Name: Diminished Role of Individuals
+153. Type: ORG, Name: AI
+154. Type: ORG, Name: AI
+155. Type: PERSON, Name: Sam Altman's
+156. Type: PERSON, Name: Crypto bro
+157. Type: ORG, Name: AI
+158. Type: PERSON, Name: Bullshit

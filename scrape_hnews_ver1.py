@@ -20,11 +20,15 @@ URL_TARGET = os.getenv('URL_TARGET', 'https://news.ycombinator.com/item?id=40198
 URL_TARGET = os.getenv('URL_TARGET', 'https://news.ycombinator.com/item?id=40192204')
 URL_TARGET = os.getenv('URL_TARGET', 'https://news.ycombinator.com/item?id=40291577')
 URL_TARGET = os.getenv('URL_TARGET', 'https://news.ycombinator.com/item?id=40515465')
+URL_TARGET = os.getenv('URL_TARGET', 'https://news.ycombinator.com/item?id=41628167')
 
 URL_SUMMARY = os.getenv('URL_SUMMARY', 'ycombinatornews_40198766.txt')
 URL_SUMMARY = os.getenv('URL_SUMMARY', 'ycombinatornews_40192204.txt')
 URL_SUMMARY = os.getenv('URL_SUMMARY', 'ycombinatornews_40291577.txt')
 URL_SUMMARY = os.getenv('URL_SUMMARY', 'ycombinatornews_40515465.txt')
+URL_SUMMARY = os.getenv('URL_SUMMARY', 'ycombinatornews_41628167.txt')
+
+
 OPENAI_API_KEY = getpass.getpass("Enter OpenAI API Key: ") # os.getenv('OPENAI_API_KEY')
 
 openai.api_key = OPENAI_API_KEY
